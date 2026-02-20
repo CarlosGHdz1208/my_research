@@ -8,7 +8,9 @@ import numpy as np
 x = 5
 
 y = x - 3
-z = y * 2
-z - y
+<<<<<<< HEAD
 
 # i should import full dataset now
+=======
+
+>>>>>>> 558c957f1dac9b550778d948a476d98d2ba75853
